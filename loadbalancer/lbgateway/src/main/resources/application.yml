@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: lbgateway
+
+server:
+  port: 9999
+
